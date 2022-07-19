@@ -1,0 +1,51 @@
+p
+{
+    font-weight: 800;
+    font-size: 20px;
+}
+
+#red
+{
+    color: red;
+}
+
+body
+{
+    background-color: greenyellow;
+}
+
+h1
+{
+background-color: cornsilk;
+color: blueviolet;
+}
+
+#show_sketch
+{
+    float: right;
+    margin-top: 3px;
+    background-color:orange;
+    color: orangered;
+    font-weight: 800;
+}
+
+
+canvas
+{
+    border-radius: 20px;
+    margin-top: 100px;    
+}
+
+#score
+{
+   float: left; 
+   font-weight: 800;
+   font-size: 25px
+}
+
+#timer
+{
+    float: right;
+    font-weight: 800;
+    font-size: 25px;
+}
